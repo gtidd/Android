@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="groceries">
+        <item>Milk</item>
+        <item>Eggs</item>
+        <item>Bread</item>
+        <item>Hamburger</item>
+        <item>Hotdogs</item>
+        <item>Chips</item>
+        <item>Cookies</item>
+        <item>Yogurt</item>
+        <item>Dog Food</item>
+    </string-array>
+</resources>
